@@ -5,7 +5,7 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickps2015&layout=compact&langs_count=7&theme=algolia"/> -->
 </div>
 
-## Linguagem de programação, Ferramentas e Tecnologias:
+## Linguagens de programação, Ferramentas e Tecnologias:
 <div align="left">
   <!-- Linguagem de programação -->
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
