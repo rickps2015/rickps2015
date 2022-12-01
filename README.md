@@ -2,12 +2,12 @@
 ## Bem vindo ao meu perfil GitHub 👋
 <div align="center">
   <a href="https://github.com/rickps2015">
-  <img width="1000em" height="180em" src="https://github-readme-stats.vercel.app/api?username=rickps2015&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&range=all_time"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickps2015&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&range=all_time"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickps2015&layout=compact&langs_count=7&theme=algolia"/> -->
 </div>
 
 ## Linguagem de programação, Ferramentas e Tecnologias:
-<div align="center">
+<div align="left">
   <!-- Linguagem de programação -->
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img title="c++" alt="rickps2015-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
@@ -59,7 +59,7 @@
 </div>
 
 ## Contatos:
-<div>
+<div align="left">
   <a href="https://www.instagram.com/rikardo_sparente/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
