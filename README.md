@@ -9,9 +9,6 @@
 ## Linguagem de programação, Ferramentas e Tecnologias:
 <div align="center">
   <!-- Linguagem de programação -->
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp" target="_blank">
-  <img title="csharp" alt="rickps2015-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  </a>
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img title="c++" alt="rickps2015-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   </a>
