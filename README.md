@@ -6,7 +6,7 @@
 </div>
 
 ## Linguagens de programação, Ferramentas e Tecnologias:
-<div align="left">
+<div align="center">
   <!-- Linguagem de programação -->
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img title="c++" alt="rickps2015-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
@@ -58,7 +58,7 @@
 </div>
 
 ## Contatos:
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/rikardo_sparente/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
