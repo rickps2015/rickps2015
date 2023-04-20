@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickps2015&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vagnermengali&bg_color=0d1117&color=FF1A43&line=FF1A43&point=D80B4B&area=true&hide_border=true)](https://github.com/vagnermengali)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rickps2015&bg_color=0d1117&color=9ad82c&line=4e7703&point=a5ff05&area=true&hide_border=true)](https://github.com/rickps2015)
 
 ## Linguagens de programação, Ferramentas e Tecnologias:
 <div align="center">
@@ -75,6 +75,3 @@
 <img width="75%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickps2015/rickps2015/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 <img width="20%" title="octocat" src="octocat.png">
 </div>
- <sup>You are visitor number:</sup>
-
-![Hit counter](https://smallcounter.com/online/ccc.php?id=1682010920)
