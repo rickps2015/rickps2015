@@ -75,4 +75,4 @@
 </div>
  <sup>You are visitor number:</sup>
 
-![Hit counter](https://smallcounter.com/count.php?c_style=52&id=1682010530)
+![Hit counter](https://smallcounter.com/count.php?c_style=52&id=1682010733)
