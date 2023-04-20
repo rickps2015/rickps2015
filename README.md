@@ -73,3 +73,6 @@
 <img width="75%" title="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickps2015/rickps2015/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 <img width="20%" title="octocat" src="octocat.png">
 </div>
+ <sup>You are visitor number:</sup>
+
+![Hit counter](https://smallcounter.com/count.php?c_style=52&id=1682010530)
