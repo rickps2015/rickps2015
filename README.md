@@ -11,7 +11,7 @@
 <div align="center">
   <!-- Linguagem de programação -->
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img title="c++" alt="rickps2015-cplusplus" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img title="c++" alt="rickps2015-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   </a>
   <a href="https://www.java.com" target="_blank">
   <img title="java" alt="rickps2015-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
