@@ -5,8 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickps2015&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rickps2015&bg_color=0d1117&color=9ad82c&line=4e7703&point=a5ff05&area=true&hide_border=true)](https://github.com/rickps2015)
-
 ## Linguagens de programação, Ferramentas e Tecnologias:
 <div align="center">
   <!-- Linguagem de programação -->
