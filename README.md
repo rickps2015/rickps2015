@@ -1,4 +1,4 @@
-# Olá, Seja bem vindo ao meu perfil no GitHub👋
+# Seja bem vindo ao meu perfil no GitHub👋
 <div align="center">
   <a href="https://github.com/rickps2015">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickps2015&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&range=all_time"/>
