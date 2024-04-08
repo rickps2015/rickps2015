@@ -8,15 +8,15 @@
 ## Linguagens de programação, Ferramentas e Tecnologias:
 <div align="center">
   <!-- Linguagem de programação -->
-  <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img title="c++" alt="rickps2015-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <a href="https://www.figma.com/" target="_blank">
+  <img title="c++" alt="rickps2015-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </a>
   <a href="https://www.java.com" target="_blank">
   <img title="java" alt="rickps2015-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
-  <a href="https://www.php.net" target="_blank">
+<!--   <a href="https://www.php.net" target="_blank">
   <img title="php" alt="rickps2015-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  </a>
+  </a> -->
   <a href="https://www.javascript.com" target="_blank">
     <img title="javascript" alt="rickps2015-Js"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   </a>
@@ -33,21 +33,21 @@
   <a href="https://vuejs.org" target="_blank">
   <img title="vue.js" alt="rickps2015-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   </a>
-  <a href="https://pt-br.reactjs.org" target="_blank">
+<!--   <a href="https://pt-br.reactjs.org" target="_blank">
   <img title="react"  alt="rickps2015-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </a>
+  </a> -->
   <a href="https://getbootstrap.com" target="_blank">
   <img title="bootstrap" alt="rickps2015-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </a>
   <a href="https://www.mysql.com" target="_blank">
   <img title="mysql" alt="rickps2015-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
+<!--   <a href="https://www.postgresql.org" target="_blank">
   <img title="postgresql" alt="rickps2015-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  </a>
-  <a href="https://www.sqlite.org" target="_blank">
+  </a> -->
+<!--   <a href="https://www.sqlite.org" target="_blank">
   <img title="sqlite" alt="rickps2015-sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  </a>
+  </a> -->
   <!-- Ferramentas -->
   <a href="https://code.visualstudio.com" target="_blank">
   <img title="vscode" alt="rickps2015-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
