@@ -8,9 +8,6 @@
 ## Linguagens de programação, Ferramentas e Tecnologias:
 <div align="center">
   <!-- Linguagem de programação -->
-  <a href="https://www.figma.com/" target="_blank">
-  <img title="c++" alt="rickps2015-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  </a>
   <a href="https://www.java.com" target="_blank">
   <img title="java" alt="rickps2015-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
@@ -54,6 +51,9 @@
   </a>
   <a href="https://www.mathworks.com" target="_blank">
   <img title="matlab" alt="rickps2015-matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+  <img title="c++" alt="rickps2015-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </a>
 </div>
 
