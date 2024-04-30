@@ -53,7 +53,7 @@
   <img title="matlab" alt="rickps2015-matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   </a>
   <a href="https://www.figma.com/" target="_blank">
-  <img title="c++" alt="rickps2015-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img title="Figma" alt="rickps2015-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </a>
 </div>
 
